@@ -9,7 +9,7 @@
   <h3 align="center">A coder with a warm heart from Vietnam </h3>
 </p>
 
-## About me:
+## About me
 
 - ✍ I'm a student  [University Of Information Technology](https://www.uit.edu.vn/).
 - 🌱 I’m currently learning **python, AI, web, app**
@@ -21,7 +21,7 @@
 [![Join the chat at https://gitter.im/ntruong1710/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 ![](https://komarev.com/ghpvc/?username=ntruong1710&style=flat-square)
 
-## 📫 How to reach me:
+# 📫 How to reach me
 
 <p align="center">
   <a href="https://www.facebook.com/nhattruong.tran.501598" alt="Facebook">
@@ -46,7 +46,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-xd--v1.png" alt="adobe-xd--v1"/>
 </p>
 
-## Activities:
+#  🔥Activities
 
 <table style="width:100%;">
   <tr>
